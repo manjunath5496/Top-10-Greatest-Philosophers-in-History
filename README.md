@@ -36,6 +36,10 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(13).pdf" style="text-decoration:none;">On the Heavens</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(14).pdf" style="text-decoration:none;">On Youth, Old Age, Life and Death, and Respiration </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(15).pdf" style="text-decoration:none;">On Sophistical Refutations</a></li>
+
  </ul>
 
 
