@@ -130,19 +130,37 @@
 
 <h2> Books </h2>
 
-<ul>
+ <ul>
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/rde(1).pdf" style="text-decoration:none;">A Discourse on the Method of Correctly Conducting One's Reason and Seeking Truth in the Sciences</a></li>
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/rde(2).pdf" style="text-decoration:none;">The Passions of the Soul</a></li>
 
-                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/rde(3).pdf" style="text-decoration:none;">Rules for the Direction of the Mind</a></li>
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/rde(4).pdf" style="text-decoration:none;"> Meditations on First Philosophy: With Selections from the Objections and Replies</a></li>
+                               
+  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/rde(5).pdf" style="text-decoration:none;"> The Philosophical Writings of Descartes</a></li>  
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/rde(6).pdf" style="text-decoration:none;"> Meditations: Background Source Materials</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/rde(7).pdf" style="text-decoration:none;">The Geometry of Rene Descartes</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(35).pdf" style="text-decoration:none;">Pauline Epistles</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(36).pdf" style="text-decoration:none;">Letter of Paul to the Ephesians</a></li>
-
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/rde(8).pdf" style="text-decoration:none;">Correspondence between Descartes and Princess Elisabeth</a></li>
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/rde(9).pdf" style="text-decoration:none;">The World and Other Writings</a></li>
+                               
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/rde(10).pdf" style="text-decoration:none;">Meditations, Objections, and Replies</a></li>
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/rde(11).pdf" style="text-decoration:none;">Philosophical Essays and Correspondence</a></li>
+                               
  
+  
+  
+  
+  
 
- </ul>
-
+</ul>
 
 </br>
 
