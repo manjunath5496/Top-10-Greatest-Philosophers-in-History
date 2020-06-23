@@ -98,3 +98,57 @@
 
 
 </br>
+<h3><a href="https://en.wikipedia.org/wiki/Paul_the_Apostle">Paul of Tarsus</a></h3>
+<p><strong>Paul the Apostle</strong>&nbsp;(<a class="mw-redirect" title="Latin language" href="https://en.wikipedia.org/wiki/Latin_language">Latin</a>:&nbsp;<em lang="la">Paulus</em>;&nbsp;<a title="Greek language" href="https://en.wikipedia.org/wiki/Greek_language">Greek</a>:&nbsp;<span lang="el">&Pi;&alpha;ῦ&lambda;&omicron;&sigmaf;</span>,&nbsp;<small><a title="Romanization of Greek" href="https://en.wikipedia.org/wiki/Romanization_of_Greek">romanized</a>:&nbsp;</small><em lang="el-Latn" title="Greek-language romanization">Paulos</em>;&nbsp;<a title="Coptic language" href="https://en.wikipedia.org/wiki/Coptic_language">Coptic</a>:&nbsp;<span lang="cop">ⲡⲁⲩⲗⲟⲥ</span>; c. 5&nbsp;&ndash; c. 64 or 67),<sup id="cite_ref-FOOTNOTEBrown1997436_2-2" class="reference"></sup><sup id="cite_ref-FOOTNOTEHarris2003_5-1" class="reference"></sup>&nbsp;commonly known as&nbsp;<strong>Saint Paul</strong>&nbsp;and also known by his Hebrew name&nbsp;<strong>Saul of Tarsus</strong>&nbsp;(<a title="Hebrew language" href="https://en.wikipedia.org/wiki/Hebrew_language">Hebrew</a>:&nbsp;<span dir="rtl" lang="he">שאול התרסי</span>&lrm;,&nbsp;<small><a title="Romanization of Hebrew" href="https://en.wikipedia.org/wiki/Romanization_of_Hebrew">romanized</a>:&nbsp;</small><em lang="he-Latn" title="Hebrew-language romanization">Sha'ūl ha-Tarsī</em>;&nbsp;<a title="Greek language" href="https://en.wikipedia.org/wiki/Greek_language">Greek</a>:&nbsp;<span lang="el">&Sigma;&alpha;ῦ&lambda;&omicron;&sigmaf; &Tau;&alpha;&rho;&sigma;&epsilon;ύ&sigmaf;</span>,&nbsp;<small><a title="Romanization of Greek" href="https://en.wikipedia.org/wiki/Romanization_of_Greek">romanized</a>:&nbsp;</small><em lang="el-Latn" title="Greek-language romanization">Saũlos Tarse&uacute;s</em>),&nbsp;was an&nbsp;<a class="mw-redirect" title="Apostle (Christian)" href="https://en.wikipedia.org/wiki/Apostle_(Christian)">apostle</a>&nbsp;(although not one of the&nbsp;<a class="mw-redirect" title="Twelve Apostles" href="https://en.wikipedia.org/wiki/Twelve_Apostles">Twelve Apostles</a>) who taught&nbsp;<a title="The gospel" href="https://en.wikipedia.org/wiki/The_gospel">the gospel</a>&nbsp;of&nbsp;<a title="Jesus in Christianity" href="https://en.wikipedia.org/wiki/Jesus_in_Christianity">Christ</a>&nbsp;to the&nbsp;<a title="Christianity in the 1st century" href="https://en.wikipedia.org/wiki/Christianity_in_the_1st_century">first-century world</a>.<sup id="cite_ref-FOOTNOTEPowell2009_8-0" class="reference"></sup>&nbsp;Paul is generally considered one of the most important figures of the&nbsp;<a class="mw-redirect" title="Apostolic Age" href="https://en.wikipedia.org/wiki/Apostolic_Age">Apostolic Age</a><sup id="cite_ref-FOOTNOTESanders2019_7-1" class="reference"></sup><sup id="cite_ref-FOOTNOTEDunn2001577Ch_32_9-0" class="reference"></sup>&nbsp;and from the mid-30s to the mid-50s AD he founded several Christian communities in&nbsp;<a title="Early centers of Christianity" href="https://en.wikipedia.org/wiki/Early_centers_of_Christianity">Asia Minor and Europe</a>.</p>
+<p>According to the&nbsp;<a title="New Testament" href="https://en.wikipedia.org/wiki/New_Testament">New Testament</a>&nbsp;book&nbsp;<a title="Acts of the Apostles" href="https://en.wikipedia.org/wiki/Acts_of_the_Apostles">Acts of the Apostles</a>&nbsp;(often simply called Acts), Paul&nbsp;<a title="Persecution of Christians in the Roman Empire" href="https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Roman_Empire">persecuted</a>&nbsp;some of the&nbsp;<a title="Disciple (Christianity)" href="https://en.wikipedia.org/wiki/Disciple_(Christianity)">early disciples</a>&nbsp;of Jesus, possibly Hellenised diaspora Jews converted to Christianity,<sup id="cite_ref-FOOTNOTEDunn2009_10-0" class="reference"></sup>&nbsp;in the area of&nbsp;<a title="Early centers of Christianity" href="https://en.wikipedia.org/wiki/Early_centers_of_Christianity#Jerusalem">Jerusalem</a>&nbsp;prior to&nbsp;<a title="Conversion of Paul the Apostle" href="https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle">his conversion</a>.&nbsp;In the narrative of&nbsp;<a title="Acts of the Apostles" href="https://en.wikipedia.org/wiki/Acts_of_the_Apostles">Acts</a>, Paul was traveling on the road from Jerusalem to&nbsp;<a title="Early centers of Christianity" href="https://en.wikipedia.org/wiki/Early_centers_of_Christianity#Damascus">Damascus</a>&nbsp;on a mission to "arrest them and bring them back to Jerusalem" when the&nbsp;<a title="Ascension of Jesus" href="https://en.wikipedia.org/wiki/Ascension_of_Jesus">ascended Jesus</a>&nbsp;appeared to him in a great light. He was struck blind, but after three days his sight was restored by&nbsp;<a title="Ananias of Damascus" href="https://en.wikipedia.org/wiki/Ananias_of_Damascus">Ananias of Damascus</a>&nbsp;and Paul began to preach that&nbsp;<a class="mw-redirect" title="Jesus of Nazareth" href="https://en.wikipedia.org/wiki/Jesus_of_Nazareth">Jesus of Nazareth</a>&nbsp;is the&nbsp;<a title="Messiah in Judaism" href="https://en.wikipedia.org/wiki/Messiah_in_Judaism">Jewish Messiah</a>&nbsp;and the&nbsp;<a title="Son of God (Christianity)" href="https://en.wikipedia.org/wiki/Son_of_God_(Christianity)">Son of God</a>.&nbsp;Approximately half of the book of Acts deals with Paul's life and works.</p>
+<p>Thirteen of the twenty-seven books in the New Testament have traditionally been attributed to Paul.<sup id="cite_ref-FOOTNOTEBrown1997407_12-0" class="reference"></sup>&nbsp;Seven of the&nbsp;<a title="Pauline epistles" href="https://en.wikipedia.org/wiki/Pauline_epistles">Pauline epistles</a>&nbsp;are undisputed by scholars as being&nbsp;<a title="Authorship of the Pauline epistles" href="https://en.wikipedia.org/wiki/Authorship_of_the_Pauline_epistles">authentic</a>, with varying degrees of argument about the remainder. Pauline&nbsp;<a title="Authorship of the Epistle to the Hebrews" href="https://en.wikipedia.org/wiki/Authorship_of_the_Epistle_to_the_Hebrews">authorship of the Epistle to the Hebrews</a>&nbsp;is not asserted in the Epistle itself and was already doubted in the 2nd and 3rd centuries.&nbsp;It was almost unquestioningly accepted from the 5th to the 16th centuries that Paul was the author of Hebrews,<sup id="cite_ref-FOOTNOTEBrownFitzmyerMurphy1990920,_col.2Ch_60:2_14-0" class="reference"></sup>&nbsp;but that view is now almost universally rejected by scholars.<sup id="cite_ref-FOOTNOTEBrownFitzmyerMurphy1990920,_col.2Ch_60:2_14-1" class="reference"></sup><sup id="cite_ref-FOOTNOTEK&uuml;mmel1975392&ndash;94,_401&ndash;03_15-0" class="reference"></sup>&nbsp;The other six are believed by some scholars to have come from followers writing in his name, using material from Paul's surviving letters and letters written by him that no longer survive.&nbsp;Other scholars argue that the idea of a pseudonymous author for the disputed epistles raises many problems.<sup id="cite_ref-FOOTNOTECarsonMoo2009_18-0" class="reference"></sup></p>
+<p>Today, Paul's epistles continue to be vital roots of the theology, worship and pastoral life in the&nbsp;<a title="Latin Church" href="https://en.wikipedia.org/wiki/Latin_Church">Latin</a>&nbsp;and Protestant traditions&nbsp;<a title="Western Christianity" href="https://en.wikipedia.org/wiki/Western_Christianity">of the West</a>, as well as the Eastern Catholic and Orthodox traditions&nbsp;<a title="Eastern Christianity" href="https://en.wikipedia.org/wiki/Eastern_Christianity">of the East</a>.<sup id="cite_ref-FOOTNOTEAageson20081_19-0" class="reference"></sup>&nbsp;Paul's influence on Christian thought and practice has been characterized as being as "profound as it is pervasive", among that of many other apostles and missionaries involved in the spread of the Christian faith.</p>
+
+
+<h2> Books </h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(16).pdf" style="text-decoration:none;">Gorgias</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(17).pdf" style="text-decoration:none;">Laws</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(18).pdf" style="text-decoration:none;">Philebus</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(19).pdf" style="text-decoration:none;">Sophist</a></li>    
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(20).pdf" style="text-decoration:none;">The Symposium</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(21).pdf" style="text-decoration:none;">Crito</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(22).pdf" style="text-decoration:none;">Euthyphro</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(23).pdf" style="text-decoration:none;">Ion</a></li>  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(24).pdf" style="text-decoration:none;">Meno</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(25).pdf" style="text-decoration:none;">Parmenides</a></li>    
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(26).pdf" style="text-decoration:none;">Protagoras</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(27).pdf" style="text-decoration:none;">Statesman</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(28).pdf" style="text-decoration:none;">Timaeus</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(29).pdf" style="text-decoration:none;">The Dialogues of Plato </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(30).pdf" style="text-decoration:none;">Theaetetus</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(31).pdf" style="text-decoration:none;">The Republic</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(32).pdf" style="text-decoration:none;">The Apology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(33).pdf" style="text-decoration:none;">The allegory of the cave</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(34).pdf" style="text-decoration:none;">Phaedo</a></li>
+
+
+ </ul>
+
+
+</br>
+
+
