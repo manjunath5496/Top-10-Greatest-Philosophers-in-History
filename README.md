@@ -251,4 +251,22 @@
 <p>Like Aristotle, Epicurus was an&nbsp;<a title="Empiricism" href="https://en.wikipedia.org/wiki/Empiricism">empiricist</a>, meaning he believed that the senses are the only reliable source of knowledge about the world. He derived much of his physics and cosmology from the earlier philosopher Democritus (<abbr title="circa">c.</abbr>&nbsp;460&ndash;<abbr title="circa">c.</abbr>&nbsp;370 BC). Like Democritus, Epicurus taught that the universe is infinite and eternal and that all matter is made up of extremely tiny, invisible particles known as&nbsp;<em><a title="Atomism" href="https://en.wikipedia.org/wiki/Atomism">atoms</a></em>. All occurrences in the natural world are ultimately the result of atoms moving and interacting in empty space. Epicurus deviated from Democritus by proposing the idea of&nbsp;<a title="Clinamen" href="https://en.wikipedia.org/wiki/Clinamen">atomic "swerve"</a>, which holds that atoms may deviate from their expected course, thus permitting humans to possess&nbsp;<a title="Free will" href="https://en.wikipedia.org/wiki/Free_will">free will</a>&nbsp;in an otherwise&nbsp;<a title="Determinism" href="https://en.wikipedia.org/wiki/Determinism">deterministic</a>&nbsp;universe.</p>
 <p>Though popular, Epicurean teachings were controversial from the beginning. Epicureanism reached the height of its popularity during the late years of the&nbsp;<a title="Roman Republic" href="https://en.wikipedia.org/wiki/Roman_Republic">Roman Republic</a>. It died out in late antiquity, subject to hostility from&nbsp;<a class="mw-redirect" title="Early Christianity" href="https://en.wikipedia.org/wiki/Early_Christianity">early Christianity</a>. Throughout the&nbsp;<a title="Middle Ages" href="https://en.wikipedia.org/wiki/Middle_Ages">Middle Ages</a>&nbsp;Epicurus was popularly, though inaccurately, remembered as a patron of drunkards, whoremongers, and gluttons. His teachings gradually became more widely known in the fifteenth century with the rediscovery of important texts, but his ideas did not become acceptable until the seventeenth century, when the French Catholic priest&nbsp;<a title="Pierre Gassendi" href="https://en.wikipedia.org/wiki/Pierre_Gassendi">Pierre Gassendi</a>&nbsp;revived a modified version of them, which was promoted by other writers, including&nbsp;<a title="Walter Charleton" href="https://en.wikipedia.org/wiki/Walter_Charleton">Walter Charleton</a>&nbsp;and&nbsp;<a title="Robert Boyle" href="https://en.wikipedia.org/wiki/Robert_Boyle">Robert Boyle</a>. His influence grew considerably during and after the&nbsp;<a title="Age of Enlightenment" href="https://en.wikipedia.org/wiki/Age_of_Enlightenment">Enlightenment</a>, profoundly impacting the ideas of major thinkers, including&nbsp;<a title="John Locke" href="https://en.wikipedia.org/wiki/John_Locke">John Locke</a>,&nbsp;<a title="Thomas Jefferson" href="https://en.wikipedia.org/wiki/Thomas_Jefferson">Thomas Jefferson</a>,&nbsp;<a title="Jeremy Bentham" href="https://en.wikipedia.org/wiki/Jeremy_Bentham">Jeremy Bentham</a>, and&nbsp;<a title="Karl Marx" href="https://en.wikipedia.org/wiki/Karl_Marx">Karl Marx</a>.</p>
 </br>
- 
+<h2> Books </h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(46).pdf" style="text-decoration:none;">A Compendium on the Soul</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(47).pdf" style="text-decoration:none;">The Canon of Medicine</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(48).pdf" style="text-decoration:none;">Avicenna's Medicine: A New Translation of the 11th-Century Canon with Practical Applications for Integrative Health Care</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(49).pdf" style="text-decoration:none;">The Physics of The Healing: BOOKS I & II </a></li>
+
+
+
+ </ul>
+
+</br>
