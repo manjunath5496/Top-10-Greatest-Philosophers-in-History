@@ -59,32 +59,40 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(1).pdf" style="text-decoration:none;">Nicomachean Ethics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(16).pdf" style="text-decoration:none;">Gorgias</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(2).pdf" style="text-decoration:none;">Metaphysics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(17).pdf" style="text-decoration:none;">Laws</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(3).pdf" style="text-decoration:none;">Politics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(4).pdf" style="text-decoration:none;">Poetics </a></li>    
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(18).pdf" style="text-decoration:none;">Philebus</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(19).pdf" style="text-decoration:none;">Sophist</a></li>    
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(5).pdf" style="text-decoration:none;">Physics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(20).pdf" style="text-decoration:none;">The Symposium</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(6).pdf" style="text-decoration:none;">Rhetoric</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(21).pdf" style="text-decoration:none;">Crito</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(7).pdf" style="text-decoration:none;">On the Soul</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(8).pdf" style="text-decoration:none;">Aristotle's Categories (Chapters 1-5)</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(22).pdf" style="text-decoration:none;">Euthyphro</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(23).pdf" style="text-decoration:none;">Ion</a></li>  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(9).pdf" style="text-decoration:none;">Posterior Analytics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(10).pdf" style="text-decoration:none;">On Generation and Corruption</a></li>    
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(24).pdf" style="text-decoration:none;">Meno</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(25).pdf" style="text-decoration:none;">Parmenides</a></li>    
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(11).pdf" style="text-decoration:none;">History of Animals</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(26).pdf" style="text-decoration:none;">Protagoras</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(12).pdf" style="text-decoration:none;">Meteorology </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(27).pdf" style="text-decoration:none;">Statesman</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(13).pdf" style="text-decoration:none;">On the Heavens</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(28).pdf" style="text-decoration:none;">Timaeus</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(14).pdf" style="text-decoration:none;">On Youth, Old Age, Life and Death, and Respiration </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(29).pdf" style="text-decoration:none;">The Dialogues of Plato </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(15).pdf" style="text-decoration:none;">On Sophistical Refutations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(30).pdf" style="text-decoration:none;">Theaetetus</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(31).pdf" style="text-decoration:none;">The Republic</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(32).pdf" style="text-decoration:none;">The Apology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(33).pdf" style="text-decoration:none;">The allegory of the cave</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(34).pdf" style="text-decoration:none;">Phaedo</a></li>
+
 
  </ul>
 
