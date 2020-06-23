@@ -164,5 +164,29 @@
 
 </br>
 
+<h3><a href="https://en.wikipedia.org/wiki/Confucius">Confucius</a></h3>
+<p><strong>Confucius</strong>&nbsp;(<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a title="Help:IPA/English" href="https://en.wikipedia.org/wiki/Help:IPA/English">/<span title="'k' in 'kind'">k</span><span title="/ən/: 'on' in 'button'">ən</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'f' in 'find'">f</span><span title="/j/: 'y' in 'yes'">j</span><span title="/uː/: 'oo' in 'goose'">uː</span><span title="/ʃ/: 'sh' in 'shy'">ʃ</span><span title="/ə/: 'a' in 'about'">ə</span><span title="'s' in 'sigh'">s</span>/</a></span></span>&nbsp;<a title="Help:Pronunciation respelling key" href="https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key"><em title="English pronunciation respelling">kən-FEW-shəs</em></a>; 551 BC&ndash;479 BC)<sup id="cite_ref-birth_1-0" class="reference"></sup><sup id="cite_ref-2" class="reference"></sup>&nbsp;was a&nbsp;<a title="Chinese philosophy" href="https://en.wikipedia.org/wiki/Chinese_philosophy">Chinese philosopher</a>&nbsp;and politician of the&nbsp;<a title="Spring and Autumn period" href="https://en.wikipedia.org/wiki/Spring_and_Autumn_period">Spring and Autumn period</a>.</p>
+<p>The philosophy of Confucius, also known as&nbsp;<a title="Confucianism" href="https://en.wikipedia.org/wiki/Confucianism">Confucianism</a>, emphasized personal and governmental morality, correctness of social relationships, justice, kindness, and sincerity. His followers competed successfully with many other schools during the&nbsp;<a title="Hundred Schools of Thought" href="https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought">Hundred Schools of Thought</a>&nbsp;era only to be&nbsp;<a title="Suppression of monasteries" href="https://en.wikipedia.org/wiki/Suppression_of_monasteries">suppressed</a>&nbsp;in favor of the&nbsp;<a title="Legalism (Chinese philosophy)" href="https://en.wikipedia.org/wiki/Legalism_(Chinese_philosophy)">Legalists</a>&nbsp;during the&nbsp;<a title="Qin dynasty" href="https://en.wikipedia.org/wiki/Qin_dynasty">Qin dynasty</a>. Following the victory of&nbsp;<a title="Han dynasty" href="https://en.wikipedia.org/wiki/Han_dynasty">Han</a>&nbsp;over&nbsp;<a class="mw-redirect" title="Chu-Han Contention" href="https://en.wikipedia.org/wiki/Chu-Han_Contention">Chu</a>&nbsp;after the collapse of Qin, Confucius's thoughts received official sanction in the new government and were further developed into a system known in the West as&nbsp;<a title="Neo-Confucianism" href="https://en.wikipedia.org/wiki/Neo-Confucianism">Neo-Confucianism</a>, and later&nbsp;<a title="New Confucianism" href="https://en.wikipedia.org/wiki/New_Confucianism">New Confucianism (Modern Neo-Confucianism)</a>.</p>
+<p>Confucius is traditionally credited with having authored or edited many of the&nbsp;<a title="Chinese classics" href="https://en.wikipedia.org/wiki/Chinese_classics">Chinese classic texts</a>&nbsp;including all of the&nbsp;<a class="mw-redirect" title="Five Classics" href="https://en.wikipedia.org/wiki/Five_Classics">Five Classics</a>, but modern scholars are cautious of attributing specific assertions to Confucius himself.&nbsp;<a title="Aphorism" href="https://en.wikipedia.org/wiki/Aphorism">Aphorisms</a>&nbsp;concerning his teachings were compiled in the&nbsp;<em><a title="Analects" href="https://en.wikipedia.org/wiki/Analects">Analects</a></em>, but only many years after his death.</p>
+<p>Confucius's principles have commonality with Chinese tradition and belief. He championed strong family loyalty,&nbsp;<a title="Ancestor veneration in China" href="https://en.wikipedia.org/wiki/Ancestor_veneration_in_China">ancestor veneration</a>, and respect of elders by their children and of husbands by their wives, recommending family as a basis for ideal government. He espoused the well-known principle "Do not do unto others what you do not want done to yourself", the&nbsp;<a title="Golden Rule" href="https://en.wikipedia.org/wiki/Golden_Rule">Golden Rule</a>. He is also a traditional deity in&nbsp;<a class="mw-redirect" title="Daoism" href="https://en.wikipedia.org/wiki/Daoism">Daoism</a>.</p>
+<p>Confucius is widely considered as one of the most important and influential individuals in human history. His teaching and philosophy greatly impacted people around the world and remain influential today.</p>
+</br>
 
+
+<h2> Books </h2>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(35).pdf" style="text-decoration:none;">Pauline Epistles</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(36).pdf" style="text-decoration:none;">Letter of Paul to the Ephesians</a></li>
+
+
+ 
+
+ </ul>
+
+</br>
 
