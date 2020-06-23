@@ -257,13 +257,13 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(46).pdf" style="text-decoration:none;">A Compendium on the Soul</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(50).pdf" style="text-decoration:none;">Letter to Menoeceus</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(47).pdf" style="text-decoration:none;">The Canon of Medicine</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(51).pdf" style="text-decoration:none;">The Art of Happiness</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(48).pdf" style="text-decoration:none;">Avicenna's Medicine: A New Translation of the 11th-Century Canon with Practical Applications for Integrative Health Care</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(52).pdf" style="text-decoration:none;">Epicurea</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(49).pdf" style="text-decoration:none;">The Physics of The Healing: BOOKS I & II </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(53).pdf" style="text-decoration:none;">The Extant Writings </a></li>
 
 
 
