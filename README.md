@@ -210,6 +210,9 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(43).pdf" style="text-decoration:none;">Treatise on Separate Substances</a></li>
 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(44).pdf" style="text-decoration:none;">On Being and Essence</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(45).pdf" style="text-decoration:none;">Treatise on Law</a></li>
 
  </ul>
 
