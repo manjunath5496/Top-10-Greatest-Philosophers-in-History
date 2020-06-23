@@ -205,14 +205,11 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(37).pdf" style="text-decoration:none;">The Doctrine of the Mean, The Great Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(42).pdf" style="text-decoration:none;">Summa Theologica</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(38).pdf" style="text-decoration:none;">The Wisdom of Confucius</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(43).pdf" style="text-decoration:none;">Treatise on Separate Substances</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(39).pdf" style="text-decoration:none;">The Analects Sayings of Confucius</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(40).pdf" style="text-decoration:none;">The Collected Works of Confucius</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(41).pdf" style="text-decoration:none;">The Book of Rites</a></li>
 
  </ul>
 
