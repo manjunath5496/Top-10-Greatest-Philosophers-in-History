@@ -229,9 +229,13 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(42).pdf" style="text-decoration:none;">Summa Theologica</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(46).pdf" style="text-decoration:none;">A Compendium on the Soul</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(43).pdf" style="text-decoration:none;">Treatise on Separate Substances</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(47).pdf" style="text-decoration:none;">The Canon of Medicine</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(48).pdf" style="text-decoration:none;">Avicenna's Medicine: A New Translation of the 11th-Century Canon with Practical Applications for Integrative Health Care</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-Greatest-Philosophers-in-History/blob/master/kecb(49).pdf" style="text-decoration:none;">The Physics of The Healing: BOOKS I & II </a></li>
 
 
 
